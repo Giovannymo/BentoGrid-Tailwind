@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# npm
+package-lock.json
+
+# Tailwind CSS
+dist/
+
+# Logs
+logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
